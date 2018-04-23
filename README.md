@@ -22,6 +22,7 @@ nodeos --producer-name <your_producer_name> --plugin eosio::chain_api_plugin
 \ --config-dir <your_producer_name> --data-dir <your_producer_name> 
 \ --private-key [\"<your_public_key>\",\"<your_private_key>\"]
 ```
+Please choose your producer name from Japanese goldfish catagory(http://www.samurai-goldfish.net)
 
 Now you are connected to JEDA testnet. you will see something like this:
 ```console
