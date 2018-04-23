@@ -42,3 +42,6 @@ Submit a issue or contact us on telegram with following information:
  * Producer name
  * IP/DOMAIN:PORT
  * Your public key
+ 
+After receving your requst, we will add your node as a block producer.
+
