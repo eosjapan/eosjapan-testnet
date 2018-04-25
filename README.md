@@ -38,6 +38,7 @@ Wait until synchronized the data as a full node.
 
 #### Submit your node
 Submit a issue or contact us on telegram with following information:
+ * Organization name
  * Server location
  * Producer name
  * IP/DOMAIN:PORT
